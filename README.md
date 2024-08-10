@@ -24,7 +24,10 @@ floating single precision.
 > **Note:** mbpoll's output syntax and command line option syntax is similar to the original modpoll command line program published by proconX. However mbpoll is a completely independent project and based on different source code than the original modpoll program. mbpoll is distributed under the GPL license, but the original modpoll program is not covered by the GPL license.
 
 
-## Quickstart guide
+## Quickstart guide: macOS installation
+Using [Homebrew](https://brew.sh): `brew install mbpoll`
+
+## Quickstart guide: Linux installation
 
 The fastest and safest way to install mbpoll is to use the APT 
 repository from [piduino.org](http://apt.piduino.org), so you should do the following :
